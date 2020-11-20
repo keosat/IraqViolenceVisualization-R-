@@ -1,6 +1,5 @@
 #Attribution and Purpose of Code====
-# Code by Keelin Haynes (hayneskd@miamioh.edu, Political Science Major, Miami University, Oxford, OH USA
-# 
+#
 # Code created December 2017 using free version of RStudio v 3.4.1 Single Candle on PC
 #
 # Purpose of Code: Create copy of Excel spreadsheet that only includes desired information, 
